@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--color-primary);
 }
 
-.car-services .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
