@@ -70,10 +70,6 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--color-primary);
 }
 
-.section-tagline {
-    color: var(--color-primary);
-}
-
 .section-header {
     text-align: var(--section-header-align);
 }
@@ -87,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-tagline {
-    text-align: var(--section-header-align);
+    color: var(--color-primary);
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
     text-transform: var(--section-tagline-transform);
